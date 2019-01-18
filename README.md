@@ -33,6 +33,7 @@ We condemn:
 * Harassment of any form
 * Anything that compromises peopleâ€™s safety
 * Solicitation
+* Direct messaging people without their consent
 
 **These things are NOT OK.**
 
@@ -42,6 +43,7 @@ If you say something that is found offensive, and you are called out on it, letâ
 * Believe what the person is saying & do not attempt to disqualify what they have to say.
 * Ask for tips / help with avoiding making the offense in the future.
 * Apologize and ask forgiveness.
+* Remember that no one owes you a response.
 
 Failing to follow the community guidelines as described in this document carries consequences. Admins reserve the right to suspend any account if we receive a complaint(s).
 
